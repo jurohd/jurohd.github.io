@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="Profilepic.jpg">
 
-Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute, Co-advised by *Prof* . Jeffery Banks and *Prof* . Heng Ji.
+Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute, Co-advised by *Prof*. Jeffery Banks and *Prof*. Heng Ji.
 
 ## Research Interest
 
