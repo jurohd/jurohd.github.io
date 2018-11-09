@@ -8,7 +8,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Resume"
+ - name: "CV"
    link: "Dong Hu's CV.pdf"
  - name: "Contact"
    link: "contact"
