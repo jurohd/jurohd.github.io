@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="Profilepic.jpg">
 
-Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute, Co-advised by *Prof*. Jeffery Banks and *Prof*. Heng Ji.
+Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute, Co-advised by *Prof* . Jeffery Banks and *Prof* . Heng Ji.
 
 ## Research Interest
 
@@ -19,16 +19,16 @@ Theoretical Machine Learning, Convex/Non-convex Optimization, Computational phot
 
 ## Research Experience
 
-* **First-order methods for constrained convex programs**, Math Department, RPI
-As *Undergraduate Research Assistant*, supervised by *Prof*. Yangyang Xu
++ **First-order methods for constrained convex programs**, Math Department, RPI
+  - As *Undergraduate Research Assistant*, supervised by *Prof*. Yangyang Xu
 
-* **A Systematic Way of Collecting and Fusing Multi-Modal Data for Cognitive Analysis Tasks**,Cognitive and Immersive Systems Lab, RPI
-As *Undergraduate Research Developer*, supervised by *phD Candidate* Xiangyang Mou, *Director* Hui Su
++ **A Systematic Way of Collecting and Fusing Multi-Modal Data for Cognitive Analysis Tasks**,Cognitive and Immersive Systems Lab, RPI
+  - As *Undergraduate Research Developer*, supervised by *phD Candidate* Xiangyang Mou, *Director* Hui Su
 
 ## Industrial Experience
 
-* **The9 Limited**, Product Development Department, Shanghai, China, Summer 2017
-As *Software Developer*, supervised by *Director* Haibo Xu
++ **The9 Limited**, Product Development Department, Shanghai, China, Summer 2017
+  -As *Software Developer*, supervised by *Director* Haibo Xu
 
 ---
 
