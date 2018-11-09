@@ -6,38 +6,30 @@ layout: default
 
 <img class="profile-picture" src="Profilepic.jpg">
 
-Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute,
+Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute, Co-advised by *Prof*. Jeffery Banks and *Prof*. Heng Ji.
 
 ## Research Interest
 
 Theoretical Machine Learning, Convex/Non-convex Optimization, Computational photography, Computer Vision.
 
-## Publications
+## Graduate Course 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+*Computational Linear Algebra by *Prof*. William. D. Henshaw
+*Machine Learning from Data by *Prof*. Malik Magdon-Ismail
 
-## Typography
+## Research Experience
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+***First-order methods for constrained convex programs**, Math Department, RPI
+As *Undergraduate Research Assistant*, supervised by *Prof*. Yangyang Xu
 
-Here is a table
+***A Systematic Way of Collecting and Fusing Multi-Modal Data for Cognitive Analysis Tasks**,Cognitive and Immersive Systems Lab, RPI
+As *Undergraduate Research Developer*, supervised by *phD Candidate* Xiangyang Mou, *Director* Hui Su
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Industrial Experience
 
-Here is a horizontal rule
+***The9 Limited**, Product Development Department, Shanghai, China, Summer 2017
+As *Software Developer*, supervised by *Director* Haibo Xu
 
 ---
 
-Here is a blockquote
-
 > To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
