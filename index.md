@@ -19,16 +19,16 @@ Theoretical Machine Learning, Convex/Non-convex Optimization, Computational phot
 
 ## Research Experience
 
-+ **First-order methods for constrained convex programs**, Math Department, RPI
++ **First-order methods for constrained convex programs**, Applied Math Department, RPI
   - As *Undergraduate Research Assistant*, supervised by *Prof*. Yangyang Xu
 
-+ **A Systematic Way of Collecting and Fusing Multi-Modal Data for Cognitive Analysis Tasks**,Cognitive and Immersive Systems Lab, RPI
++ **A Systematic Way of Collecting and Fusing Multi-Modal Data for Cognitive Analysis Tasks**, Cognitive and Immersive Systems Lab, RPI
   - As *Undergraduate Research Developer*, co-worked with *PhD. Candidate* Xiangyang Mou, supervised by *Director* Hui Su
 
 ## Industrial Experience
 
 + **The9 Limited**, Product Development Department, Shanghai, China, Summer 2017
-  -As *Software Developer*, supervised by *Director* Haibo Xu
+  - As *Software Developer*, supervised by *Director* Haibo Xu
 
 ---
 
