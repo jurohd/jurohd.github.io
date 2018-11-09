@@ -1,5 +1,4 @@
 title: Dong Hu
-url: "https://jurohd.github.io"
 markdown: kramdown
 
 tracking_id: #
@@ -9,10 +8,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "Dong Hu's CV.pdf"
  - name: "Contact"
    link: "contact"
 
