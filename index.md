@@ -14,8 +14,8 @@ Theoretical Machine Learning, Convex/Non-convex Optimization, Computational phot
 
 ## Graduate Course 
 
-+ Computational Linear Algebra by *Prof*. William. D. Henshaw
-+ Machine Learning from Data by *Prof*. Malik Magdon-Ismail
++ **Computational Linear Algebra** by *Prof*. William. D. Henshaw
++ **Machine Learning from Data** by *Prof*. Malik Magdon-Ismail
 
 ## Research Experience
 
