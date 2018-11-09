@@ -35,4 +35,4 @@ Theoretical Machine Learning, Convex/Non-convex Optimization, Computational phot
 ---
 
 > The more I learn, the more I realize how much I don't know. \\
->                                                   ------Albert Einstein
+>                                                \hfill------Albert Einstein
