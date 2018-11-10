@@ -10,7 +10,7 @@ Hi! I am a Senior year student Major in Applied Math and Computer Science in Ren
 
 ## Research Interest
 
-Theoretical Machine Learning, Convex/Non-convex Optimization, Computational photography, Computer Vision.
+Statistical machine learning, Theoretical Machine Learning, Convex/Non-convex Optimization, Computational photography, Computer Vision.
 
 ## Graduate Course 
 
