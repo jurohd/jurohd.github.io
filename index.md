@@ -37,4 +37,4 @@ Statistical machine learning, Theoretical Machine Learning, Convex/Non-convex Op
 
 > The more I learn, the more I realize how much I don't know. ------Albert Einstein
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=572oaideg39&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=McCGoT0GmLV08AwUa2s_SrvbInna_IYREKsfDZ4eKrI&cl=ffffff&w=a"></script>
