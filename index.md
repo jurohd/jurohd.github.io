@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="Profilepic.jpg">
 
-Hi! I am a Senior year student Major in Applied Math and Computer Science in Rensselaer Polytechnic Institute, Co-advised by *Prof*. Jeffery Banks and *Prof*. Heng Ji.
+Hi! I am a 1st year PhD student Major in Computer Science in Rensselaer Polytechnic Institute. I am fortunate enough to be advised by *Prof*. Alex Gittens and co-advised by *Prof*. Malik Magdon-Ismail.
 
 ## Research Interest
 
-Statistical machine learning, Theoretical Machine Learning, Convex/Non-convex Optimization, Computational photography, Computer Vision.
+Statistical Machine Learning, Convex/Non-convex Optimization, Matrix Recovery.
 
 ## Graduate Course 
 
