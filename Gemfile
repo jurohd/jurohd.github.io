@@ -24,4 +24,9 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem "jekyll-livereload"
+  
 end
+
+gem 'webrick'
+
