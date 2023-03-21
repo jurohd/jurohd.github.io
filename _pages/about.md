@@ -22,11 +22,11 @@ Provable fast and convergent Low Rank Tucker Decomposition via sketching(In prog
 Alex Gittens, **Dong Hu**, Shashanka Ubaru, Vassilis Kalantzis, Lior Horesh  
 Transactions on Machine Learning Research(TMLR 2023)
 
-Sparse graph based sketching for fast numerical linear algebra[[Arxiv]](https://arxiv.org/abs/2102.05758)  
+Sparse graph based sketching for fast numerical linear algebra[[arXiv]](https://arxiv.org/abs/2102.05758)  
 **Dong Hu**, Shashanka Ubaru, Alex Gittens, Kenneth L. Clarkson, Lior Horesh, Vassilis Kalantzis
 International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021)
 
-NoisyCUR: An algorithm for two-cost budgeted matrix completion[[Arxiv]](https://arxiv.org/pdf/2104.08026.pdf)  
+NoisyCUR: An algorithm for two-cost budgeted matrix completion[[arXiv]](https://arxiv.org/pdf/2104.08026.pdf)  
 **Dong Hu**, Alex Gittens, Malik Magdon-Ismail  
 European Conference on Machine Learning (ECML-PKDD 2020)
 
