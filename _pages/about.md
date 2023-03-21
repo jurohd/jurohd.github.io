@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a fourth-year PhD student in computer science at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science), advised by Prof. [Alex gittens](https://www.cs.rpi.edu/~gittea/). I am also a Rensselaer-IBM [Artificial Intelligence Research Collaboration(AIRC)](https://airc.rpi.edu) scholar, under the supervision of [Shashanka Ubaru](https://shashankaubaru.github.io) and [Lior Horesh](https://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh).
 
-[Here](/CV/) is my CV.
+[Here](/cv/) is my CV.
 
 Research Interest
 ======
