@@ -32,5 +32,6 @@ European Conference on Machine Learning (ECML-PKDD 2020)
 
 Misc. interests
 ======
-I love traveling and taking photos. Most of my recent photography work is done using either medium format or large format film cameras. You can find most of my works (in low resolution) on my [instagram](https://www.instagram.com/jurohd_/) account. You can always reach out to me to acquire the raw files for archival-quality prints.  
+I love traveling and taking photos. Most of my recent photography work is done using either medium format or large format film cameras. You can find most of my works (in low resolution) on my [instagram](https://www.instagram.com/jurohd_/) account. You can always [reach out to me](mailto:jurohd@gmail.com) to acquire the raw files for archival-quality prints.  
 
+I also engage in Texas Hold'em poker during my free time, playing both online and offline. I am a profitable poker player at GGpoker(NL200 Zoom level).
