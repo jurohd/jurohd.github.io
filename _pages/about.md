@@ -5,9 +5,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*I will be graduating 2024 May and currently looking for jobs starting 2024 fall.*
+*I will be graduating 2024 May and I am currently looking for jobs.*
 
-I am currently a fourth-year PhD student in computer science at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science), advised by Prof. [Alex Gittens](https://www.cs.rpi.edu/~gittea/). In the summer of 2020, I joined the RPI-IBM [Artificial Intelligence Research Collaboration(AIRC)](https://airc.rpi.edu) program as a scholar, under the supervision of [Shashanka Ubaru](https://shashankaubaru.github.io) and [Lior Horesh](https://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh).
+I am currently a final-year PhD student in computer science at [Rensselaer Polytechnic Institute](https://science.rpi.edu/computer-science), advised by Prof. [Alex Gittens](https://www.cs.rpi.edu/~gittea/). In the summer of 2020, I joined the RPI-IBM [Artificial Intelligence Research Collaboration(AIRC)](https://airc.rpi.edu) program as a scholar, under the supervision of [Shashanka Ubaru](https://shashankaubaru.github.io) and [Lior Horesh](https://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh).
 
 Research Interest
 ======
