@@ -17,10 +17,8 @@ My research focuses on using randomized linear algebra(RandNLA) tools to quantif
 
 Publications and Preprints
 ======
-Label complexity reduction for non-linear machine learning(In preparation) 
-
-**Dong Hu**, Alex Gittens, Malik Magdon-Ismail
-
+Label complexity reduction for non-linear machine learning(In preparation) \
+**Dong Hu**, Alex Gittens, Malik Magdon-Ismail\
 International Conference on Machine Learning (ICML 2024)
 
 Provable fast and convergent Low Rank Tucker Decomposition via sketching(In preparation)  
