@@ -11,7 +11,7 @@ I am currently a final-year PhD student in computer science at [Rensselaer Polyt
 
 Research Interest
 ======
-My research focuses on using randomized linear algebra(RandNLA) tools to quantifiably trade off accuracy with computation time. My work lies in obtaining low-rank approximations for ML models(e.g. Matrix completion, Tensor Decomposition). I am also curious about exploring the possibilities of leveraging these RandNLA techniques in Deep Learning settings(e.g. Low rank attention in Efficient Transformer).
+My research focuses on using randomized linear algebra(RandNLA) tools to quantifiably trade off accuracy with computation time. My work lies in obtaining low-rank approximations for ML models(e.g. Matrix completion, Tensor Decomposition). I am also curious about exploring the possibilities of leveraging these RandNLA techniques in Deep Learning settings.
 
 [Here](/cv/) is my CV.
 
