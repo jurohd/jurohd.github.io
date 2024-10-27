@@ -17,13 +17,13 @@ My research focuses on using randomized linear algebra(RandNLA) tools to quantif
 
 Publications and Preprints
 ======
-Label complexity reduction for non-linear machine learning(In preparation) \
+Active Learning for Kernel Ridge Regression(Under Review)   \
 **Dong Hu**, Alex Gittens, Malik Magdon-Ismail\
-International Conference on Machine Learning (ICML 2024)
+Association for the Advancement of Artificial Intelligence (AAAI 2025)
 
 Provable fast and convergent Low Rank Tucker Decomposition via sketching(In preparation)  
 Alex Gittens, **Dong Hu**, Shashanka Ubaru, Vassilis Kalantzis, Lior Horesh  
-Transactions on Machine Learning Research (TMLR 2023)
+Transactions on Machine Learning Research (TMLR 2024)
 
 Sparse graph based sketching for fast numerical linear algebra[[arXiv]](https://arxiv.org/abs/2102.05758)  
 **Dong Hu**, Shashanka Ubaru, Alex Gittens, Kenneth L. Clarkson, Lior Horesh, Vassilis Kalantzis
